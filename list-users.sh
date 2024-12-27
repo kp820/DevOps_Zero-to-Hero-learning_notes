@@ -1,4 +1,11 @@
 #!/bin/bash
+######################################################
+# Author_Name = Kamta
+# Date = 27.12.2024
+# Version = V1
+# This is a script to know the user role permission
+# Script Type = Shell Script
+######################################################
 
 # GitHub API URL
 API_URL="https://api.github.com"
